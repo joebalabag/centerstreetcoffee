@@ -45,7 +45,10 @@ hr {
     font-weight: 900;
     letter-spacing: 2px;
 }
-
+.headnav
+{
+ background: url('../img/headnavbg.jpg');
+}
 .navbar-nav {
     text-transform: uppercase;
     font-weight: 400;
@@ -182,7 +185,7 @@ footer p {
     }
 
     .nav>li>a {
-        padding: 35px;
+        padding: 15px;
     }
 
     .navbar-nav>li>a {
