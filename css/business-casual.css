@@ -1,8 +1,10 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-  background-image: url("../img/newbackground.jpg");
+  background-image: url("../img/background.jpg");
     /* background-image: url("../img/headbg.jpg");*/
+		background-size: cover;
+background-position:50% 50%;
 	background-position:  center ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
