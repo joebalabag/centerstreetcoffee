@@ -1,8 +1,7 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-	background-color: #1a1a1a;
-  background-image: url("../img/bac.jpg");
+  background-image: url("../img/newbackground.jpg");
     /* background-image: url("../img/headbg.jpg");*/
 	background-position:  center ;
     -webkit-background-size: cover;
